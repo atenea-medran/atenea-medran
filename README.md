@@ -9,6 +9,7 @@
 - 👋 Hi, I’m Atenea
 - 📫 You can email me at **ateneamedran@protonmail.com**
 - :telephone_receiver: You can call me at +34 637 486 265
+- :link: **[LinkedIn](https://www.linkedin.com/in/ateneamedran/)**
 
 ## My curriculum
 - **[:page_facing_up: English: Resume](https://drive.google.com/file/d/1sy-x9zhZyGUEq3E2eLDiGZtNcbOFG0UH/view?usp=sharing)**
