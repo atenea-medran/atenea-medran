@@ -11,8 +11,8 @@
 - :telephone_receiver: You can call me at +34 637 486 265
 
 ## My curriculum
-- **[:page_facing_up: English: Resume](https://drive.google.com/file/d/1zRgd0F4u4NrU6C3g_Wb7gFN0nVsOZdqE/view?usp=sharing)**
-- **[:page_facing_up: Español: Curriculum](https://drive.google.com/file/d/1qBYWu2vgqYBk83odvAtVJERYahiB46q1/view?usp=sharing)**
+- **[:page_facing_up: English: Resume](https://drive.google.com/file/d/1sy-x9zhZyGUEq3E2eLDiGZtNcbOFG0UH/view?usp=sharing)**
+- **[:page_facing_up: Español: Curriculum](https://drive.google.com/file/d/1ADA4eQIBBJk5g9uHYUYrN85_QwdyQJtw/view?usp=sharing)**
 
 ## Projects
 - **[:open_file_folder: Portfolio](https://github.com/atenea-medran/atenea-medran/tree/main/Portfolio)**
