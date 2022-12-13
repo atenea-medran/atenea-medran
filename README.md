@@ -9,14 +9,15 @@
 - 👋 Hi, I’m Atenea
 - 📫 You can email me at **ateneamedran@protonmail.com**
 - :telephone_receiver: You can call me at +34 637 486 265
+- :link: **[LinkedIn](https://www.linkedin.com/in/ateneamedran/)**
 
 ## My curriculum
-- **[:page_facing_up: English: Resume](https://drive.google.com/file/d/1-xnt4wPgH2EDJ9cs7m0uS9V-bsLnRpNs/view?usp=sharing)**
-- **[:page_facing_up: Español: Curriculum](https://drive.google.com/file/d/1uM2aF6YJhCEBlh6r8w0Jew1KTsgdUCD2/view?usp=sharing)**
+- **[:page_facing_up: English: Resume](https://drive.google.com/file/d/1sy-x9zhZyGUEq3E2eLDiGZtNcbOFG0UH/view?usp=sharing)**
+- **[:page_facing_up: Español: Curriculum](https://drive.google.com/file/d/1ADA4eQIBBJk5g9uHYUYrN85_QwdyQJtw/view?usp=sharing)**
 
 ## Projects
 - **[:open_file_folder: Portfolio](https://github.com/atenea-medran/atenea-medran/tree/main/Portfolio)**
-- **[:bird: Project: Como analizar Twitter](https://github.com/atenea-medran/como-analizar-twitter)**
+- **[:bird: Project: How to analyze Twitter](https://github.com/atenea-medran/how-to-analyze-twitter)**
 
 ## Certificates
 - **[🐍 Dataquest - Data Analyst - Python](Certificates/dataquest/Data%20Analyst)**
