@@ -8,6 +8,7 @@ A serie of exercises regarding Twitter. This is my biggest project until now. It
 
 This is the first hashtag I analyzed. It is important because it was a real analysis and I answered several questions I made myself before the analysis.
 
+* **[Air pollution by country](Portfolio/My%20Projects/air-pollution-countries/pollution_countries.ipynb)**
 
  # Guided Projects
 * **[Exploring Hacker News Posts](Guided%20Projects/Exploring%20Hacker%20News%20Posts.ipynb)**
