@@ -17,7 +17,7 @@
 
 ## Projects
 - **[:open_file_folder: Portfolio](https://github.com/atenea-medran/atenea-medran/tree/main/Portfolio)**
-- **[:bird: Project: Como analizar Twitter](https://github.com/atenea-medran/como-analizar-twitter)**
+- **[:bird: Project: How to analyze Twitter](https://github.com/atenea-medran/how-to-analyze-twitter)**
 
 ## Certificates
 - **[🐍 Dataquest - Data Analyst - Python](Certificates/dataquest/Data%20Analyst)**
