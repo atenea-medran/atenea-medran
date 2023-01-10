@@ -1,8 +1,6 @@
 # My Projects
-* **[How to analyze twitter](https://github.com/atenea-medran/como-analizar-twitter)**
-
-A serie of exercises regarding Twitter. This is my biggest project until now. It is placed in a separated repository because I have given two presentations and this way people will find the methods more easily.
-
+* **[Telegram bot to download multiple images](My%20Projects/telegram_bot_to_download_multiple_images.ipynb)**: the Telegram Android app doesn't have the option to download multiple images, just one by one. It is only available in Telegram Desktop. I made this as a Python exercise. I will finish it in the future, I am doing more important things right now.
+* **[How to analyze twitter](https://github.com/atenea-medran/como-analizar-twitter)**: A serie of exercises regarding Twitter. This is my biggest project until now. It is placed in a separated repository because I have given two presentations and this way people will find the methods more easily.
 * **[Análisis de hashtags de Twitter con Python](My%20Projects/Analisis%20de%20hashtags%20de%20Twitter%20con%20Python.ipynb)**: análisis del hashtag #aquiestamoslasfeministas usando t-hoarder, Gephi y Python. Proyecto para la Universidad de Granada.
 * **[Twitter hashtag analysis with Python](My%20Projects/Twitter%20hashtag%20analysis%20with%20Python.ipynb)**: an analysis of hashtag #aquiestamoslasfeministas using t-hoarder, Gephi and Python. Project for the University of Granada.
 
