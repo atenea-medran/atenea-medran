@@ -13,6 +13,7 @@
 
 ## My curriculum
 - **[:page_facing_up: Español: Curriculum](https://atenea-medran.github.io/curriculum_atenea_medran.pdf)**
+- **[:page_facing_up: English: Resume](https://atenea-medran.github.io/resume_atenea_medran.pdf)**
 
 ## Projects
 - **[:open_file_folder: Portfolio](https://github.com/atenea-medran/atenea-medran/tree/main/Portfolio)**
@@ -26,14 +27,12 @@
 
 ## Learnings of these months coding:
 - Program small functioning pieces to avoid errors.
-- 5 simple lines of code are better than a huge one.
 - Comments are here to help our future self and our colleages understand our code.
 - Write everything in english from the beginning and all the dataframe columns with underscore.
 - Lowercase and no accents are key to standarize data, specially in other languages.
 - Prepare an scheme before coding. A piece of paper can be a good option.
-- A print() in the correct spot inside a function can help you find the data that is making your code fail.
+- Debug is key to find the errors of your code.
 - Be sure of what you have, what the function is asking and what it is giving back. The understanding of the different data types is fundamental.
-
 <!---
 atenea-medran/atenea-medran is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
