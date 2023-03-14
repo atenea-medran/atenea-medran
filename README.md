@@ -17,7 +17,7 @@
 - **[:page_facing_up: English: Resume](https://atenea-medran.github.io/resume_atenea_medran.pdf)**
 
 ## Projects
-- **[:open_file_folder: Portfolio](https://github.com/atenea-medran/atenea-medran/tree/main/Portfolio)**
+- **[:open_file_folder: Portfolio](https://atenea-medran.github.io/)**
 - **[:bird: Project: How to analyze Twitter](https://github.com/atenea-medran/how-to-analyze-twitter)**
 
 ## Certificates
