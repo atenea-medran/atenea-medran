@@ -13,8 +13,8 @@
 - :link: **[LinkedIn](https://www.linkedin.com/in/ateneamedran/)**
 
 ## My curriculum
-- **[:page_facing_up: Español: Curriculum](https://atenea-medran.github.io/cvs/curriculum_atenea_medran.pdf)**
-- **[:page_facing_up: English: Resume](https://atenea-medran.github.io/cvs/resume_atenea_medran.pdf)**
+- **[:page_facing_up: Español: Curriculum](https://atenea-medran.github.io/pdfs/curriculum_atenea_medran.pdf)**
+- **[:page_facing_up: English: Resume](https://atenea-medran.github.io/pdfs/resume_atenea_medran.pdf)**
 
 ## Projects
 - **[:open_file_folder: Portfolio](https://atenea-medran.github.io/)**
