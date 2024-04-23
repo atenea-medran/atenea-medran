@@ -1,6 +1,6 @@
 ## Contact
 - 👋 Hi, I’m Atenea
-- 📫 You can email me at **ateneamedran@protonmail.com**
+- 📫 You can email me at **ateneamedran@gmail.com**
 - :telephone_receiver: You can call me at +34 637 486 265
 - :link: **[LinkedIn](https://www.linkedin.com/in/ateneamedran/)**
 
