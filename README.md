@@ -18,14 +18,7 @@
 - **[💸 Dataquest - Tableau](Certificates/dataquest/Tableau)**
 - **[✈️ Andalucia Vuela](Certificates/andalucia%20vuela)**
 
-## Learnings of these months coding:
-- Program small functioning pieces to avoid errors.
-- Comments are here to help our future self and our colleages understand our code.
-- Write everything in english from the beginning and all the dataframe columns with underscore.
-- Lowercase and no accents are key to standarize data, specially in other languages.
-- Prepare an scheme before coding. A piece of paper can be a good option.
-- Debug is key to find the errors of your code.
-- Be sure of what you have, what the function is asking and what it is giving back. The understanding of the different data types is fundamental.
+
 <!---
 atenea-medran/atenea-medran is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
